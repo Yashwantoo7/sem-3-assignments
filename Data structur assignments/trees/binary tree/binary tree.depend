@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604375055 source:c:\users\yashwant\desktop\assignments\data structur assignments\trees\binary tree\main.cpp
+	<iostream>
+	"binaryTree.cpp"
+
+1604375188 source:c:\users\yashwant\desktop\assignments\data structur assignments\trees\binary tree\binarytree.cpp
+	<iostream>
+	<queue>
+
+1604375188 c:\users\yashwant\desktop\assignments\data structur assignments\trees\binary tree\binarytree.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598361105 source:c:\users\yashwant\desktop\assignments\digital_electronics_25_8\radixxto10\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<typeinfo>
+
+1598423891 source:c:\users\yashwant\desktop\assignments\digital_electronics_25_8\radixxtoy\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<typeinfo>
+

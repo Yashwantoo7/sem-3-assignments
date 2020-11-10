@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602678884 source:c:\users\yashwant\desktop\assignments\data_structure_lab_14_10_2020\all questions\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<stack>
+
